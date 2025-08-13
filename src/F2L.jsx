@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { f2lCases } from './f2lData';
 
 export default function F2LGrid() {
